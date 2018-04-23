@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "splash": {
+      "image": "./assets/dash-logo-300ppi.png",
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}
