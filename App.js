@@ -50,7 +50,7 @@ export default class App extends React.Component {
 
   componentDidMount() {
       //TODO need to eject before can use orientation!!
-      //Orientation.lockToLandscape();
+      Orientation.lockToLandscape();
       this.getRandomImage();
 
       AsyncStorage

@@ -5,5 +5,7 @@
       "image": "./assets/dash-logo-300ppi.png",
       "backgroundColor": "#FFFFFF"
     }
-  }
+  },
+  "name": "dash",
+  "displayName": "Dash"
 }
